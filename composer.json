@@ -11,8 +11,11 @@
     ],
     "require": {},
     "autoload": {
+        "files": [
+            "src/Support/helpers.php"
+        ],
         "psr-4": {
-            "sunilib":"src/"
+            "sunilib\\":"src/"
         }
     }
 }

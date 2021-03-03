@@ -1,0 +1,10 @@
+/index.php
+/.idea
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/sunilib.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/.gitignore
+/.idea/misc.xml
+vendor

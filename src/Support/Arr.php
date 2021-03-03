@@ -299,7 +299,7 @@ final class Arr{
 			return $array->offsetExists($key);
 		}
 		
-		return array_key_exists($key, $array);
+		return is_array($array)&&array_key_exists($key, $array);
 	}
 	
 	/**
