@@ -1,0 +1,18 @@
+{
+    "name": "suni/sunilib",
+    "description": "php class pack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suni",
+            "email": "sangshu.sun@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sunilib":"src/"
+        }
+    }
+}
